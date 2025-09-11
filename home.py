@@ -13,7 +13,7 @@ data = pd.DataFrame({
     'y': y
 })
 
-st.title('Scatter Chartaaaa')
+st.title('ああああああああ！Scatter Chartavtttgtggttgtgtgggttgtauhuhuhuhuaa')
 # 散布図を表示
 st.scatter_chart(data, x='x', y='y')
 st.area_chart(data, x='x', y=['y1', 'y2'])
